@@ -5,6 +5,6 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.pack/godot"},
+  { import = "astrocommunity.pack/go"},
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
